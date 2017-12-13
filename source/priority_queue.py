@@ -1,7 +1,6 @@
 # encoding:utf-8
 
 # This file implements a priority queue using heapq module
-# Author: Marcos Castro
 
 import heapq
 
