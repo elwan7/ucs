@@ -1,8 +1,6 @@
 # encoding:utf-8
 
 # This file implements the Uniform Cost Search (UCS) algorithm
-# Explanation of UCS algorithm: https://www.youtube.com/watch?v=AaKEW_mVBtg
-# Author: Marcos Castro
 
 import time
 from graph import *
