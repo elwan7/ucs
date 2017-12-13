@@ -2,8 +2,6 @@
 
 # This file implements a graph directed with weight
 # The graph not supports multiple edges with the same extremes (same output node and same input node)
-# Author: Marcos Castro
-
 
 # class that represents a node
 class Node:
